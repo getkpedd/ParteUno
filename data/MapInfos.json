@@ -1,0 +1,14 @@
+[
+null,
+{"id":1,"expanded":true,"name":"0001 City","order":1,"parentId":0,"scrollX":1231.6363636363637,"scrollY":1338.5454545454545},
+{"id":2,"expanded":false,"name":"Mansión (Interior)","order":2,"parentId":1,"scrollX":2184,"scrollY":1218.6666666666667},
+{"id":3,"expanded":true,"name":"Bosque","order":4,"parentId":0,"scrollX":816,"scrollY":800},
+{"id":4,"expanded":true,"name":"Ruinas","order":6,"parentId":0,"scrollX":1081.3333333333333,"scrollY":830.6666666666666},
+{"id":5,"expanded":false,"name":"Ruinas antiguas","order":7,"parentId":4,"scrollX":1216.5,"scrollY":1096.5},
+{"id":6,"expanded":false,"name":"Casa abandonada","order":3,"parentId":1,"scrollX":1092,"scrollY":609.3333333333334},
+{"id":7,"expanded":true,"name":"Bosque laberíntico","order":5,"parentId":0,"scrollX":1390.2857142857142,"scrollY":769.7142857142857},
+{"id":8,"expanded":true,"name":"Ruinas antiguas","order":8,"parentId":0,"scrollX":1390.2857142857142,"scrollY":1302.8571428571427},
+{"id":9,"expanded":true,"name":"Castillo demoníaco (Piso 1)","order":9,"parentId":8,"scrollX":1390.2857142857142,"scrollY":1302.8571428571427},
+{"id":10,"expanded":true,"name":"Mercado","order":10,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":11,"expanded":false,"name":"Casa 2","order":11,"parentId":10,"scrollX":819,"scrollY":457}
+]

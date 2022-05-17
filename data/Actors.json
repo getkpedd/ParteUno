@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"Actor1_6","characterIndex":5,"characterName":"Actor1","classId":1,"equips":[1,0,0,3,0],"faceIndex":0,"faceName":"$Lucas","traits":[],"initialLevel":1,"maxLevel":99,"name":"García","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Actor2_6","characterIndex":6,"characterName":"People2","classId":4,"equips":[4,1,0,3,0],"faceIndex":0,"faceName":"$Hugo","traits":[],"initialLevel":1,"maxLevel":99,"name":"Gonzalo","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Actor1_3","characterIndex":2,"characterName":"Actor1","classId":2,"equips":[2,0,0,3,0],"faceIndex":0,"faceName":"$Adri","traits":[],"initialLevel":1,"maxLevel":99,"name":"Santiago","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Actor3_5","characterIndex":4,"characterName":"Actor3","classId":3,"equips":[3,0,0,3,0],"faceIndex":0,"faceName":"$caye","traits":[],"initialLevel":1,"maxLevel":99,"name":"Lope","nickname":"","note":"","profile":""}
+]
